@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c61b22d7-8e80-489a-ae84-6548a853e43a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SEP3_T2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/controller/CircusShowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/controller/ReservationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/controller/ResponseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/dto/CircusShowDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/dto/CreateReservationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/dto/ReservationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/GrpcStubFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/clients/CircusShowClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/clients/ReservationClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/clients/UserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/clients/impl/GRPCCircusShowClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/clients/impl/GRPCUserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/clients/impl/ReservationClientImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/converters/CircusShowConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/converters/ReservationConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/grpc/converters/UserConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/jwt/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/jwt/JwtUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/jwt/SecurityBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/jwt/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/jwt/UserDetailsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/services/CircusShowService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/services/ReservationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/services/impl/CircusShowServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/services/impl/ReservationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/java/com/example/sep3_t2/services/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/resources/proto/circusShow.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/resources/proto/reservation.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEP3_T2/src/main/resources/proto/user.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEP3_T2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SEP3_T2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEP3_T2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SEP3_T2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEP3_T2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SEP3_T2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_T3/Contracts/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_T3/Contracts/Contracts.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_T3/Contracts/Contracts.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_T3/DTO/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_T3/EFC/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_T3/EFC/EFC.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_T3/EFC/EFC.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_T3/GrpcService/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_T3/GrpcService/GrpcService.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_T3/GrpcService/GrpcService.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_T3/SEP3_T3.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_T3/SEP3_T3.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SEP3_T2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2S9eCuAEuTCCM31p57TJUOsoXeh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/VIA/Semester_03/SEP3_Group2/SEP3_T2/SEP3_T2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;74a18cc15ca34fc3be3e08c53f84d040&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Sep3T2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SEP3_T2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sep3_t2.Sep3T2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c61b22d7-8e80-489a-ae84-6548a853e43a" name="Changes" comment="" />
+      <created>1688563107526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688563107526</updated>
+      <workItem from="1688563109014" duration="449000" />
+      <workItem from="1690185013577" duration="38000" />
+      <workItem from="1690800692538" duration="10768000" />
+      <workItem from="1691007505726" duration="10196000" />
+      <workItem from="1691405529600" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
